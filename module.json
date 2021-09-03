@@ -1,0 +1,13 @@
+{
+    "name": "Homelayout",
+    "alias": "homelayout",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Homelayout\\Providers\\HomelayoutServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

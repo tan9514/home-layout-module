@@ -78,6 +78,7 @@ class HomeLayoutAuthMenuSeeder extends Seeder
                 "icon" => 'fa fa-cog',
                 "type" => 1,
                 "status" => 1,
+                "sort" => 92,
                 "remark" => "首页设置",
                 "target" => "_self",
                 "createtime" => $time,
